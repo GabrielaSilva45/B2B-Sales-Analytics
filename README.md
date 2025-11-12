@@ -21,8 +21,7 @@ Dashboard desenvolvido em **Power BI** utilizando dados reais da *Global Superst
 ---
 
 ## 📸 Imagens do Dashboard
-*(adicione prints do seu dashboard aqui depois)*  
-![Capa](imagens/capa.png)
+![Dashboard B2B](Captura%20de%20tela%202025-11-12%20131108.png)
 
 ---
 
