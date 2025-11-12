@@ -11,16 +11,6 @@ Dashboard desenvolvido em **Power BI** utilizando dados reais da *Global Superst
 - 💳 Ticket Médio  
 - 📈 Margem de Lucro (%)
 
----
-
-## 📊 Visuais Criados
-- Receita Mensal  
-- Receita por Categoria  
-- Receita por Região  
-- Lucro por Segmento  
-- Filtros Interativos (Ano, Região, Categoria)
-
----
 
 ## 🛠️ Tecnologias Utilizadas
 - Power BI Desktop  
